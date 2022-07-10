@@ -78,9 +78,10 @@ class App extends Component {
           <AddContactForm onAddNewContact={onAddNewContact} />
 
           <h2>Contacts</h2>
-          {contactsAreNotEmpty && (
+
+          {contactsAreNotEmpty ? (
             <FilterContacts filter={filter} onFilter={onFilterChange} />
-          )}
+          ) : null}
           <ContactList contacts={filteredContacts} onRemove={handleRemove} />
         </Container>
       </div>
