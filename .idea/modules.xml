@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/goit-react-hw-03-phonebook.iml" filepath="$PROJECT_DIR$/.idea/goit-react-hw-03-phonebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goit-react-hw-02-phonebook/.idea/goit-react-hw-02-phonebook.iml" filepath="$PROJECT_DIR$/../goit-react-hw-02-phonebook/.idea/goit-react-hw-02-phonebook.iml" />
     </modules>
   </component>
 </project>
